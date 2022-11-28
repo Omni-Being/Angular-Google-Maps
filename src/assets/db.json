@@ -1,0 +1,17 @@
+{
+  "locations":
+  [
+		{
+			"id": 1,
+			"latitude": "12",
+			"longitude": "65",
+			"label": "X"
+		},
+		{
+			"latitude": "54",
+			"longitude": "156",
+			"label": "Y",
+			"id": 2
+		}
+  ]
+}

@@ -1,0 +1,9 @@
+agm-map
+{
+    height: 300px !important;
+}
+.table-overflow
+{
+    height: 200px !important;
+    overflow-y: scroll;
+}
